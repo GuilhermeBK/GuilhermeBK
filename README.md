@@ -9,7 +9,6 @@
  * [**microsserviço de pagamento da API de delivery**](https://github.com/GuilhermeBK/Microsservi-o-de-pagamento-da-API-de-delivery)
  * [**Crud com microsserviços rodando na AWS**](https://github.com/GuilhermeBK/Crud-com-microsservi-os)
  * [**APP de compras por viajantes no exterior**](https://github.com/GuilhermeBK/Mudi-compras)
- * [**microsserviço de pagamento da API de delivery**](https://github.com/GuilhermeBK/Microsservi-o-de-pagamento-da-API-de-delivery)
  
  ##
  
