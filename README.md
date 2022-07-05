@@ -13,10 +13,11 @@
  ##
  
 #### Angular / VueJS / Javascript / Typescript
- * [**APP simulando um extrato bancario, com transações**](https://github.com/GuilhermeBK/Byte-bank-angular)
- * [**Fron end da API de Gestão financeira**](https://github.com/GuilhermeBK/gestorapi-angular)
- * [**Site de vagas**](https://github.com/GuilhermeBK/vagas-VueJS)
- * [**Simulando um home brocker da B3**](https://github.com/GuilhermeBK/TypeScript-negociacao-B3) 
+ * [**APP simulando um extrato bancario, com transações - Angular**](https://github.com/GuilhermeBK/Byte-bank-angular)
+ * [**Fron end da API de Gestão financeira - Angular**](https://github.com/GuilhermeBK/gestorapi-angular)
+ * [**Simulando um home brocker da B3 - TypeScript**](https://github.com/GuilhermeBK/TypeScript-negociacao-B3)
+ * [**Site de vagas - VueJS**](https://github.com/GuilhermeBK/vagas-VueJS)
+ * [**API ERP para empresa de Serviços - VueJS**](https://github.com/GuilhermeBK/API-ERP-simples-VueJS)
 
 ## 
 
