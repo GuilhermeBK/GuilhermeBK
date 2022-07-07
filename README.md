@@ -18,6 +18,7 @@
  * [**Simulando um home brocker da B3 - TypeScript**](https://github.com/GuilhermeBK/TypeScript-negociacao-B3)
  * [**Site de vagas - VueJS**](https://github.com/GuilhermeBK/vagas-VueJS)
  * [**API ERP para empresa de Serviços - VueJS**](https://github.com/GuilhermeBK/API-ERP-simples-VueJS)
+ * [**API gerenciamento de emergencias hospitalares - VueJS**](https://github.com/GuilhermeBK/gerenciamento-de-equipe-de-emergencia)
 
 ## 
 
