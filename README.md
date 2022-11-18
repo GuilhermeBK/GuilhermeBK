@@ -3,7 +3,7 @@
  ##
 #### Java / Spring / Microsserviços / Docker / AWS / RABBITQM: 
 
- * [**ERP sob encomenda para loja de iphone com multiplos CNPJs (em desenvolvimento)**](https://github.com/GuilhermeBK/GestorApi](https://github.com/GuilhermeBK/ERP)
+ * [**ERP sob encomenda para loja de iphone com multiplos CNPJs (em desenvolvimento)**](https://github.com/GuilhermeBK/ERP)
  * [**API de gestão financeira**](https://github.com/GuilhermeBK/GestorApi)
  * [**Arquivo de configuração para AWS**](https://github.com/GuilhermeBK/configura-o-AWS)
  * [**API de delivery, baseado no ifood**](https://github.com/GuilhermeBK/ifood-api)
