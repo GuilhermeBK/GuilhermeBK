@@ -1,4 +1,5 @@
 ### Olá, me chamo Guilherme Kirsch 👋
+### Tenho outros 4 grandes projetos pessoais e freelancers que estão privados. Caso tenha interesse em visualizá-los, por favor, entre em contato pelo meu WhatsApp: (51) 99937-4847.
 ### Meus principais projetos dividos entre stacks: 
  ##
 #### Java / Spring / Microsserviços / Docker / AWS / RABBITQM: 
